@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+.env
+database.sqlite
+
+
+# ignore deps
+**/node_modules/
+api/node_modules/
+.expo/
+database.sqlite
+.env
+
+# ignore sqlite
+**/database.sqlite
